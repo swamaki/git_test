@@ -3,3 +3,5 @@ example4 text
 2023-09-23 08:44:14.310 [info] > git show --textconv :3_example.log [5ms]
 2023-09-23 08:44:14.313 [info] > git show --textconv :2_example.py [5ms]
 2023-09-23 08:44:14.314 [info] > git show --textconv :4_example.txt [5ms]
+
+example4 change 2 
